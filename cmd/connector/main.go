@@ -3,9 +3,9 @@ package main
 import (
 	sdk "github.com/conduitio/conduit-connector-sdk"
 
-	connectorName "github.com/conduitio/conduit-connector-connectorName"
+	tinybird "github.com/alejandromav/conduit-connector-tinybird"
 )
 
 func main() {
-	sdk.Serve(connectorName.Connector)
+	sdk.Serve(tinybird.Connector)
 }

@@ -1,4 +1,4 @@
-package connectorName
+package tinybird
 
 import sdk "github.com/conduitio/conduit-connector-sdk"
 
