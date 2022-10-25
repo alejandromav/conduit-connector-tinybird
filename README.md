@@ -1,7 +1,5 @@
 # Conduit Connector for Tinybird
-[Conduit](https://conduit.io) for Tinybird.
 
-## General
 The Tinybird plugin is one of [Conduit](https://github.com/ConduitIO/conduit) plugins.
 It currently provides only destination Tinybird connector, allowing for using it as a destination in a Conduit pipeline.
 
